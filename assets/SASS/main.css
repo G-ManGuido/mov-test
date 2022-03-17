@@ -273,6 +273,7 @@ footer article .rechts a .fa-solid {
 }
 
 .superhelden {
+  background: #1a2634;
   display: grid;
   grid-template-columns: 20% 20% 60%;
   gap: 1rem;
@@ -291,9 +292,6 @@ footer article .rechts a .fa-solid {
   font-size: 1rem;
 }
 
-.technik {
-  background: #1a2634;
-}
 .technik h2 {
   font-size: 1.8rem;
   font-weight: 100;
